@@ -5,6 +5,8 @@
 ;;
 ;;  Version 1.2
 ;;
+;;  License: GPL
+;; 
 ;;  In accordance with the GNU license, this file may be freely
 ;;  distributed and copied, provided that further distribution is not
 ;;  restricted.
